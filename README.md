@@ -17,7 +17,7 @@
 
 <p align="center">
   <a href="https://github.com/kuzaan1/linked-list-visualizer/releases/latest">
-    <img src="https://img.shields.io/badge/⬇️%20Download%20Now-Release-green?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/%20Download%20Now-Release-green?style=for-the-badge&logo=github" />
   </a>
 </p>
 
